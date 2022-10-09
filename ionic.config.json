@@ -1,0 +1,8 @@
+{
+  "name": "identishot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "9476b347"
+}
